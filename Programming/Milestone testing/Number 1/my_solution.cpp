@@ -15,12 +15,13 @@ private:
 public:
     number_two(int degree_){
         value = 2;
-        if (degree > 0){
+        degree = degree_;
+        if (degree_ > 0){
             for (int i = 0; i < degree_; i++){
                 value *= value;
             }
         }
-        else if (degree == 0){
+        else if (degree_ == 0){
             value = 1;
         }
         else{
