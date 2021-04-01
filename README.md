@@ -3,7 +3,7 @@
 
 _Some subjects in the second semester_
 _2019-2020y_
-## Subjects of the 4th semester of study
+## Subjects of the 2th semester of study
 * Databases
 * Programming on C++
 * Algorithms and data structures
